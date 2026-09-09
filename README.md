@@ -21,6 +21,7 @@
 | [0414-third-maximum-number](https://github.com/rajmanimishra/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajmanimishra/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajmanimishra/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rajmanimishra/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -109,4 +111,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajmanimishra/DSA/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
