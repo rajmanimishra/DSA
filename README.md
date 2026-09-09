@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/rajmanimishra/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajmanimishra/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/rajmanimishra/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rajmanimishra/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rajmanimishra/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,6 +34,7 @@
 | [0015-3sum](https://github.com/rajmanimishra/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajmanimishra/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rajmanimishra/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rajmanimishra/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajmanimishra/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/rajmanimishra/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rajmanimishra/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
