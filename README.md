@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/rajmanimishra/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajmanimishra/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rajmanimishra/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajmanimishra/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/rajmanimishra/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rajmanimishra/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajmanimishra/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajmanimishra/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
