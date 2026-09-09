@@ -20,6 +20,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajmanimishra/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rajmanimishra/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajmanimishra/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/rajmanimishra/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
 ## Two Pointers
@@ -35,6 +36,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajmanimishra/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rajmanimishra/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rajmanimishra/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/rajmanimishra/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rajmanimishra/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajmanimishra/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rajmanimishra/DSA/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/rajmanimishra/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
 ## String
