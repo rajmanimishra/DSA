@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajmanimishra/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rajmanimishra/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajmanimishra/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajmanimishra/DSA/tree/master/0018-4sum) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajmanimishra/DSA/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rajmanimishra/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
