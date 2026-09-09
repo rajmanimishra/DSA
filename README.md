@@ -26,6 +26,7 @@
 | [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/rajmanimishra/DSA/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rajmanimishra/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajmanimishra/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
