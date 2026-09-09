@@ -24,6 +24,7 @@
 | [0941-valid-mountain-array](https://github.com/rajmanimishra/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/rajmanimishra/DSA/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rajmanimishra/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rajmanimishra/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/rajmanimishra/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/rajmanimishra/DSA/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
