@@ -127,4 +127,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rajmanimishra/DSA/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajmanimishra/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajmanimishra/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
