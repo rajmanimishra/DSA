@@ -62,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rajmanimishra/DSA/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/rajmanimishra/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rajmanimishra/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
@@ -78,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rajmanimishra/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajmanimishra/DSA/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rajmanimishra/DSA/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rajmanimishra/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
