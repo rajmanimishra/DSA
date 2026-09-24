@@ -1,0 +1,26 @@
+#include <string>
+#include <unordered_map>
+
+using namespace std;
+
+class Solution {
+public:
+    bool canConstruct(string ransomNote, string magazine) {
+        if (ransomNote.size() > magazine.size()) return false;
+
+        unordered_map<char, int> freq;
+
+        for (char c : magazine) {
+            freq[c]++;
+        }
+
+        for (char c : ransomNote) {
+            if (freq[c] == 0) {
+                return false;
+            }
+            freq[c]--;
+        }
+
+        return true;
+    }
+};
