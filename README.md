@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rajmanimishra/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rajmanimishra/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rajmanimishra/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rajmanimishra/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajmanimishra/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/rajmanimishra/DSA/tree/master/0042-trapping-rain-water) |
@@ -62,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajmanimishra/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajmanimishra/DSA/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/rajmanimishra/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rajmanimishra/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajmanimishra/DSA/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajmanimishra/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
