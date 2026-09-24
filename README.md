@@ -34,6 +34,7 @@
 | [0011-container-with-most-water](https://github.com/rajmanimishra/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajmanimishra/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajmanimishra/DSA/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajmanimishra/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/rajmanimishra/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rajmanimishra/DSA/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajmanimishra/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajmanimishra/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajmanimishra/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/rajmanimishra/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rajmanimishra/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
@@ -149,4 +151,20 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajmanimishra/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajmanimishra/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajmanimishra/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajmanimishra/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajmanimishra/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
