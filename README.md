@@ -36,6 +36,7 @@
 | [0018-4sum](https://github.com/rajmanimishra/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajmanimishra/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/rajmanimishra/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/rajmanimishra/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/rajmanimishra/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rajmanimishra/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rajmanimishra/DSA/tree/master/0283-move-zeroes) |
@@ -147,6 +148,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rajmanimishra/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/rajmanimishra/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajmanimishra/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
