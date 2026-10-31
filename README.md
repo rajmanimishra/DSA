@@ -81,6 +81,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rajmanimishra/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rajmanimishra/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rajmanimishra/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajmanimishra/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,12 +93,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajmanimishra/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/rajmanimishra/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajmanimishra/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajmanimishra/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajmanimishra/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/rajmanimishra/DSA/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajmanimishra/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajmanimishra/DSA/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajmanimishra/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
